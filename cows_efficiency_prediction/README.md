@@ -1,5 +1,3 @@
-# projects_yandex_practicum
-
 # Cows efficiency prediction 
 
 ## Data

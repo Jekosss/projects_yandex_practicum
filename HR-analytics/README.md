@@ -1,23 +1,23 @@
 # HR analytics 
 
-## Data
+# Описание проекта: 
+с помощью машинного обучения быстрее и точнее ответить на вопросы бизнеса, а именно: помочь HR-аналитикам оптимизировать управление персоналом и избежать финансовых потерь и оттока сотрудников.
 
-Several datasets were given with various information about employees: workload level, salary, supervisor assessment, and so on
+# Цель проекта: 
+Необходимо решить 2 задачи:
 
-## Task
+Построить модель, которая сможет предсказать уровень удовлетворённости сотрудника на основе данных заказчика.
 
-There are 2 tasks to be solved within the project:
-The first is to build a model that can predict employee satisfaction based on customer data.
-Why this is important for business: job satisfaction directly affects the outflow of employees. And predicting churn is one of the most important tasks of HR analysts. Sudden layoffs carry risks for the company, especially if an important employee leaves.
+Построить модель, которая сможет на основе данных заказчика предсказать то, что сотрудник уволится из компании.
 
-Your second task is to build a model that can predict based on customer data that an employee will leave the company.
+Почему бизнесу это важно: удовлетворённость работой напрямую влияет на отток сотрудников. А предсказание оттока — одна из важнейших задач HR-аналитиков. Внезапные увольнения несут в себе риски для компании, особенно если уходит важный сотрудник.
 
 ## Libraries and methods used
 
 - *pandas*
 - *seaborn*
 - *matplotlib*
-- *missingno*
+- *numpy*
 - *sklearn*
 - *phik*
 - *shap*

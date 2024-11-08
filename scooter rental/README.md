@@ -1,19 +1,18 @@
-# Scooter rental 
-## Data
+# Аренда самокатов
+# Цель проекта: 
+Проведение иссследовательского и статистического анализа данных, которые могут помочь сервису проката самокатов GoFast вырасти.
 
-3 datasets were presented in this project:
+# Ход исследования:
 
-1) Users info: name, age, city and subscription type
-2) Rides info: distance, duration and date
-3) Subscription types info: subscription price and rides prices
+Осуществим предобработку данных: найдем и по возможности устраним пропуски, а так же обработаем дубликаты.
+Проведем исследовательский анализ данных: с помощью инструментов визуализации найдем взаимосвзязь некоторых парметров для пользователей и поездок.
+Объединим данные и визуализируем информацию о расстоянии и времени поездок для пользователей обеих представленных категорий.
+Подсчитаем выручку, которую приносит каждый пользователь.
+Проверим гипотезы в целях помочь бизнесу увеличить количество пользователей с подпиской.
+Решить несколько задач относительно распределений случайных величин.
+Сформулировать выводы
 
-These datasets have been combined into one for further analysis.
-
-## Task
-
-There is data on some users from several cities, as well as on their trips. You need to analyze the data and test some hypotheses that can help the business grow.
-
-## Libraries and methods used
+## Используемые библиотеки:
 
 - *pandas*
 - *seaborn*

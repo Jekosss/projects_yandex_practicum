@@ -18,3 +18,4 @@
 - *sklearn*
 - *phik*
 - *shap*
+Используются методы градиентного бустинга (модели LGBMRegressor, CatBoostRegressor)
